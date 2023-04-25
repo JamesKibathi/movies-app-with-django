@@ -4,3 +4,4 @@
  -pip install --upgrade virtualenv
  -virtualenv -p python3 venv
 3.Start a Django project - django-admin startproject [name] . 
+4.Run the server - python3 manage.py runserver
