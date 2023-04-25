@@ -7,3 +7,4 @@
 4.Run the server - python3 manage.py runserver
 5.Run migrations - python manage.py migrate
 6.Create superuser - python manage.py createsuperuser
+7.Run model specific migration - python manage.py makemigrations [projectname]
