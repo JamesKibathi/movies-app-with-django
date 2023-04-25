@@ -1,0 +1,6 @@
+1. Create a virtual environment - python3 -m venv .venv
+2. Activate virtual environment - . .venv/bin/activate (prone to errors)
+** Use this instead **
+ -pip install --upgrade virtualenv
+ -virtualenv -p python3 venv
+3.Start a Django project - django-admin startproject [name] . 
